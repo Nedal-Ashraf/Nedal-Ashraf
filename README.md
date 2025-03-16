@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Small Colage Projects<br>👯 I’m looking to collaborate on Small Web Projects<br>🤝 I’m looking for help with CSS And JavaScript<br>🌱 I’m currently learning FullStack Development And App Development<br>💬 Ask me about The Projects I Worked On<br>
+🔭 I’m currently working on Small Collage Projects<br>👯 I’m looking to collaborate on Small Web Projects<br>🤝 I’m looking for help with CSS And JavaScript<br>🌱 I’m currently learning FullStack Development And App Development<br>💬 Ask me about The Projects I Worked On<br>
 
 
 ## 🌐 Socials:
